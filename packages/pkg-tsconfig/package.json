@@ -1,0 +1,14 @@
+{
+  "name": "@horizon/pkg-tsconfig",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "files": [
+    "base.json",
+    "nextjs.json",
+    "react-library.json"
+  ],
+  "dependencies": {
+    "json5": "^2.2.1"
+  }
+}

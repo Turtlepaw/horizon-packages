@@ -1,0 +1,17 @@
+{
+  "name": "@horizon/scam",
+  "version": "0.0.0",
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.5.1"
+  },
+  "dependencies": {
+    "@horizon/pkg-tsconfig": "*",
+    "typescript": "^4.5.2",
+    "json5": "^2.2.1",
+    "puppeteer": "^14.1.1",
+    "jest": "^28.1.0"
+  }
+}
